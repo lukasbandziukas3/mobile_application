@@ -2,7 +2,6 @@
 
 [Iphone 15pro ios17.0](https://github.com/user-attachments/assets/e26339b3-9797-4383-8f9f-3e7cd914ae2c)
 
-[Pixel 4 API30 Android 11.0](https://github.com/SaperZP/incode_tt/assets/26072694/c69011ec-0fb4-43c0-953d-4f13f1f5927c)
 
 A cross-platform mobile application that allows users to explore and manage their favorite characters, starships, and planets from the Star Wars universe. This React Native project leverages Redux Toolkit and modern libraries to deliver a smooth user experience with persistent local storage.
 
@@ -26,8 +25,8 @@ A cross-platform mobile application that allows users to explore and manage thei
 ## Installation
 
 ```bash
-git clone https://github.com/SaperZP/Star-Wars-Favorites-Mobile-Application.git
-cd Star-Wars-Favorites-Mobile-Application
+git clone https://github.com/lukasbandziukas3/mobile_application.git
+cd mobile_application
 npm install
 npm start
 ```
@@ -42,5 +41,5 @@ npm install -g expo-cli
 ## Author
 
 Andriy Bilous  
-[GitHub Profile](https://github.com/SaperZP)
+[GitHub Profile](https://github.com/lukasbandziukas3)
 
